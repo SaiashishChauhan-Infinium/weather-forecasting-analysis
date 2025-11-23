@@ -440,15 +440,6 @@ This project is created for educational purposes as part of the PM Accelerator T
 
 ---
 
-## 👤 Author
-
-**Data Science Team**  
-PM Accelerator Program  
-Email: your.email@example.com  
-GitHub: [@yourusername](https://github.com/yourusername)
-
----
-
 ## 🙏 Acknowledgments
 
 - **Kaggle**: For providing the Global Weather Repository dataset
@@ -461,7 +452,7 @@ GitHub: [@yourusername](https://github.com/yourusername)
 
 For questions or issues:
 - Create an issue in the GitHub repository
-- Contact: your.email@example.com
+- Contact: saichauhan202@gmail.com
 - Documentation: See this README.md
 
 ---
